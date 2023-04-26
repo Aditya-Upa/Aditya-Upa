@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-Upa
 - 👀 I’m interested in Machine Learning algorithms to solve biological problems
 - 🌱 I’m currently pursuing my PhD in computational genomics/ bioinformatics 
-- 💞️ 
+- 💞️ computers and powerlifting
 - 📫 Mail me @ aditya.upadhyay@csiriicb.res.in
 
 <!---
