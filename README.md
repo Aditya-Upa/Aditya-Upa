@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-Upa
 - 👀 I’m interested in bioinformatics tool/database development
 - 🌱 I’m currently pursuing my PhD in computational genomics/ bioinformatics 
-- 💞️ computers and powerlifting
+- 💞️ computers, powerlifting and Mixed Martial Arts
 - 📫 Mail me @ aditya.upadhyay@csiriicb.res.in
 
 <!---
